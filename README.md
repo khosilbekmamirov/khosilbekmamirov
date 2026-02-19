@@ -1,4 +1,4 @@
-# Hi, I'm Hosilbek 👋
+# Hi, I'm Khosilbek 👋
 
 🎯 Focus: DevOps | Cloud Engineering | Cybersecurity  
 🐍 Python & Linux enthusiast  
