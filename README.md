@@ -1,6 +1,6 @@
 # Hi, I'm Khosilbek 👋
 
-🎯 Focus: DevOps | Cloud Engineering | Cybersecurity  
+🎯 Focus: Cybersecurity | Red team | DevOps 
 🐍 Python & Linux enthusiast  
 ⚙️ Building practical automation and security tools  
 
